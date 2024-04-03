@@ -1,0 +1,21 @@
+{
+  "name": "carapi-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon express",
+    "start": "nodemon express"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0",
+    "i-s": "^1.2.3",
+    "nodemon": "^3.0.3",
+    "node": "20.11.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
